@@ -26,8 +26,12 @@
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     
-<p>
-    ![Visitor Count](https://profile-counter.glitch.me/{TalitaGD}/count.svg)
+##
+### :eyes: Profile Views
+<p align="center">
+
+
+![Visitor Count](https://profile-counter.glitch.me/{andrefarias11}/count.svg)
 </p>
 </div>
   
