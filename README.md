@@ -25,7 +25,10 @@
   <a href="https://www.linkedin.com/in/andré-farias-16bb021ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+    
+<p>
+    ![Visitor Count](https://profile-counter.glitch.me/{TalitaGD}/count.svg)
+</p>
 </div>
   
   
