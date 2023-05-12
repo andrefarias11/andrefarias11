@@ -13,7 +13,6 @@
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
   <img align="center" alt="Rafa-c"  height="30" width="32" src="https://img.icons8.com/color/100/000000/c-sharp-logo-2.png"/>
     
-  <img align="right" alt="Rafa-pic" height="150" src="https://cdn.discordapp.com/attachments/829819415935320084/968842097488724008/download20220403085027.png">
 </div><br/>  
   
   <div> 
